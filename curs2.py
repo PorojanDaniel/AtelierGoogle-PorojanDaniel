@@ -1,1 +1,1 @@
-variabila = 'ana "are" mere'
+print("hello world")
