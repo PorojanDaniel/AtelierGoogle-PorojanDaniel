@@ -1,0 +1,1 @@
+variabila = 'ana "are" mere'
